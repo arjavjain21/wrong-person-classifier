@@ -1,0 +1,10 @@
+lead_email,email_body_text,email_body_html
+alex@example.com,"Hi there,
+I am not the right person for this. You should reach out to Jamie at jamie@example.org.",""
+pat@example.com,"Thank you for contacting us. This mailbox is no longer monitored.",""
+jordan@example.com,"Out of office until Monday.",""
+stevie@example.com,"Delivery Status Notification (Failure)
+Final-Recipient: rfc822; stevie@example.com
+Action: failed
+Status: 5.1.1
+",""
